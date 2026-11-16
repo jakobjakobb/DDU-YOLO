@@ -1,0 +1,8 @@
+# Stierne er relative til mappen, hvor denne fil ligger
+train: train/images
+val: valid/images
+test: test/images
+
+
+nc: 2
+names: ['X', 'O']
